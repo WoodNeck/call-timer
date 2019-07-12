@@ -1,6 +1,6 @@
 {
   "name": "call-timer",
-  "version": "0.1.0",
+  "version": "0.1.0-snapshot",
   "description": "Function execution timer for checking timing info like min, max, mean or so.",
   "main": "lib/call-timer.js",
   "module": "lib/call-timer.esm.js",

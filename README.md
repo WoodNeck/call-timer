@@ -4,6 +4,11 @@ Small utility library to check function execution time info on browser.
 
 Supports IE9+
 
+## Installation
+```sh
+$ npm install -D call-timer
+```
+
 ## Quick Start
 ```js
 function appendChild(index) {
